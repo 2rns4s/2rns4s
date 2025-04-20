@@ -37,15 +37,6 @@ Here are some ideas to get you started:
   <a href="https://maven.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
   </a>
-  <!-- Gradle -->
-  <a href="https://gradle.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-</p>
 
 
 
