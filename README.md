@@ -38,10 +38,6 @@ Here are some ideas to get you started:
   <a href="https://gradle.org/" target="_blank">
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
   </a>
-  <!-- JUnit -->
-  <a href="https://junit.org/" target="_blank">
-    <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
-  </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -53,8 +49,21 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/2rns4s">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=2rns4s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=2rns4s&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+  <a href="https://github.com/2rns4s">
+    <!-- Stats Card -->
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=2rns4s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/2rns4s">
+    <!-- Top Languages Card (solo params válidos) -->
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=2rns4s&layout=compact&langs_count=8&theme=algolia"
+      alt="Top Languages"
+    />
+  </a>
 </p>
+
