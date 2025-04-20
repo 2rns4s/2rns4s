@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  🎓 Software Engineering student</a> • 🌱 Currently learning Microservices with Spring Boot
+</p>
 
 ### 💻 Tech Stack
 
