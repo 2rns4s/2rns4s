@@ -15,28 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠 &nbsp;Tech Stack
+### 💻 Tech Stack
 
-<!-- Java -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) :contentReference[oaicite:7]{index=7}
+<p align="center">
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  </a>
+  <!-- Spring Boot -->
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+  </a>
+  <!-- Hibernate -->
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  </a>
+  <!-- Maven -->
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  </a>
+  <!-- Gradle -->
+  <a href="https://gradle.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+  </a>
+  <!-- JUnit -->
+  <a href="https://junit.org/" target="_blank">
+    <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  </a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+</p>
 
-<!-- Spring Boot -->
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) :contentReference[oaicite:8]{index=8}
-
-<!-- Hibernate -->
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) :contentReference[oaicite:9]{index=9}
-
-<!-- Maven -->
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) :contentReference[oaicite:10]{index=10}
-
-<!-- Gradle -->
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white) :contentReference[oaicite:11]{index=11}
-
-<!-- JUnit -->
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) :contentReference[oaicite:12]{index=12}
-
-<!-- Docker (opcional para contenedores) -->
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) :contentReference[oaicite:13]{index=13}
 
 
 ### ⚙️ &nbsp;GitHub Analytics
