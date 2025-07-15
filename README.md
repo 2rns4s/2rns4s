@@ -37,27 +37,3 @@ Here are some ideas to get you started:
   <a href="https://maven.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
   </a>
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/2rns4s">
-    <!-- Stats Card -->
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=2rns4s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-      alt="GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/2rns4s">
-    <!-- Top Languages Card (solo params válidos) -->
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=2rns4s&layout=compact&langs_count=8&theme=algolia"
-      alt="Top Languages"
-    />
-  </a>
-</p>
-
